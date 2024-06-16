@@ -16,7 +16,7 @@ class ViewController: UIViewController {
     }
 
     @IBAction func showMessage(_ sender: Any) {
-        lblMessage.text = "Hello, World!"
+        lblMessage.text = "Hello Swift"
     }
     
 }
